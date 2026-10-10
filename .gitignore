@@ -1,0 +1,13 @@
+node_modules/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+.env*
+*.log
+docs/tasks/
+.omo/
+.codegraph/
