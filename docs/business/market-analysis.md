@@ -19,7 +19,7 @@ Alcance temporal de este análisis: datos recolectados entre septiembre y octubr
 
 Colombia combina alta adopción de billeteras digitales con rieles de pago locales y sin banca abierta operativa a la fecha de este análisis.
 
-Las billeteras dominan el pago cotidiano. [DATO] Nequi reporta entre 27 y 29 millones de usuarios y permite pagar facturas de empresas como Enel, EPM y Claro, pero no ofrece seguimiento consolidado entre proveedores. Fuente: nequi.com.co, consultado 2026-10-07. [DATO] Daviplata ofrece pago de facturas con código de barras y tiene foco rural y de subsidios, con servicio gratuito. Fuente: davivienda.com, consultado 2026-10-07. En conjunto, las billeteras superan los 25 millones de usuarios activos en el país. Fuente: investigación interna Shadow-Net, 2026-10-07.
+Las billeteras dominan el pago cotidiano. [DATO] Nequi reporta entre 27 y 29 millones de usuarios y permite pagar facturas de empresas como Enel, EPM y Claro, pero no ofrece seguimiento consolidado entre proveedores. Fuente: nequi.com.co, consultado 2026-10-07. [DATO] Daviplata ofrece pago de facturas con código de barras y tiene foco rural y de subsidios, con servicio gratuito. Fuente: davivienda.com, consultado 2026-10-07. En conjunto, las billeteras superan los 25 millones de usuarios activos en el país. [DATO] Fuente: investigación interna Shadow-Net, 2026-10-07.
 
 Los rieles de pago relevantes son PSE y Bre-B. [DATO] PSE (ACH Colombia) es el riel de débito bancario en línea, gratuito para el pagador en la mayoría de comercios, y Bre-B es el sistema de transferencias inmediatas interoperables. Fuente: investigación interna Shadow-Net, 2026-10-07. Esto importa para Bills porque el usuario ya tiene cómo pagar; lo que le falta es acordarse de qué pagar, cuándo y por cuánto. Bills no mueve dinero y no necesita conectarse a estos rieles en el MVP.
 
@@ -59,7 +59,7 @@ Menciones adicionales sin ficha completa: Finthy (carga de extractos, declara so
 
 ### 3.2 Anclas de disposición a pagar verificadas
 
-[DATO] Finku cobra $20.000 COP/mes por su plan pago. Fuente: finku.co, consultado 2026-10-07. [DATO] Mobills cobra el equivalente a ~$63.000 COP/mes por su premium. Fuente: mobillsapp.com, consultado 2026-10-07. Los precios de servicios de suscripción de entretenimiento (música ~$18.900 COP/mes, video ~$50.000 COP/mes) y el valor típico de una multa por pago tardío (~$20.000 COP) se usan solo como anclas de referencia, no como evidencia de disposición a pagar por Bills. Fuente: investigación interna Shadow-Net, 2026-10-07.
+[DATO] Finku cobra $20.000 COP/mes por su plan pago. Fuente: finku.co, consultado 2026-10-07. [DATO] Mobills cobra el equivalente a ~$63.000 COP/mes por su premium. Fuente: mobillsapp.com, consultado 2026-10-07. Los precios de servicios de suscripción de entretenimiento (música ~$18.900 COP/mes, video ~$50.000 COP/mes) y el valor típico de una multa por pago tardío (~$20.000 COP) se usan solo como anclas de referencia, no como evidencia de disposición a pagar por Bills. [HIPÓTESIS] Fuente: investigación interna Shadow-Net, 2026-10-07.
 
 ## 4. Hipótesis de mercado
 
